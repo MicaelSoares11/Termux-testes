@@ -1,1 +1,1 @@
-# bagdes
+# Duvidas Termux 😉
